@@ -1,5 +1,3 @@
 # hello-world
 
-Mischa hat versucht ein Update dieses READMEs anzulegen.
-
-This repository is build to try feature of GIThub and to learn.
+Jetzt editieren ich das README im zwiete branch v2017.12.11. UNd dann verushce ich mal einen pull request.
